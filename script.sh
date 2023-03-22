@@ -1,1 +1,1 @@
-No te regales!
+echo "No te regales!"
